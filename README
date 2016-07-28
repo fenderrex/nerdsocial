@@ -4,9 +4,14 @@ NERDSOCIAL
 1. What is it?
 --------------
 
-* It's a thing.
+* It combinds hot online development tools with three.js graphics that render learning resources in to an online 1st POV 3D
+game that accepts plugins by the users in a realtime sandbox...
+
 
 2. TODO
 --------
 
-* Everything.
+* Use Flask as a RESTful framwork
+* game development read http://jeromeetienne.github.io/slides/howtomakeagame-nextgamefrontier-2014/#85
+* embed resources like ironpython suit in a setup.py
+
